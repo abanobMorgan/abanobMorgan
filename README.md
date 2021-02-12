@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning data science, machine learning and Artificial intelligence 
 - 💞️ I’m looking to collaborate on data science, data analysis, machine learning and Artificial intelligence 
 - 📫 How to reach me this is my linkedIn https://www.linkedin.com/in/abanob-morgan/
+- this is my E-mail: abanob.k.morgan@gmail.com  
 - ☎         01211453624
 
 <!---
