@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Abanob Kammal Attalla Morgan   
-- 👀 I’m interested in data science, machine learning and Artificial intelligence 
-- 🌱 I’m currently learning data science, machine learning and Artificial intelligence 
-- 💞️ I’m looking to collaborate on data science, data analysis, machine learning and Artificial intelligence 
-- 📫 How to reach me this is my linkedIn https://www.linkedin.com/in/abanob-morgan/
+-👋 Hi, I’m Abanob Kammal Attalla Morgan   
+- 👀 I’m interested in data science, machine learning, and Artificial intelligence 
+- 🌱 I’m currently learning data science, machine learning, and Artificial intelligence 
+- 🌱 here is my Kaggle account where I have done helpful projects in Artificial Intelligence: https://www.kaggle.com/abanobmorgan
+- 💞️ I’m looking to collaborate on data science, data analysis, machine learning, and Artificial intelligence 
+- 📫 How to reach me this is my LinkedIn https://www.linkedin.com/in/abanob-morgan/
 - this is my E-mail: abanob.k.morgan@gmail.com  
 - ☎         01027838329
 
