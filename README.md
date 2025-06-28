@@ -1,5 +1,5 @@
 -👋 Hi, I’m Abanob Kammal Attalla Morgan   
-- 🌱 I currently work as an NLP engineer at RDI.
+- 🌱 I currently work as an NLP engineer at RDI.  
 I’m a Natural Language Processing Engineer with over 2 years of hands-on experience building intelligent language models and backend infrastructure for AI-driven applications.  
 My work has spanned advanced sentiment analysis,  
 generative chatbots using local LLMs,  
